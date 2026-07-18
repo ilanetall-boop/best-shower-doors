@@ -1,5 +1,49 @@
 [
   {
+    "slug": "shower-door-buying-guide",
+    "title": "Shower Door Buying Guide (2026): Types, Glass &amp; Measuring",
+    "publishDate": "2026-07-19",
+    "summary": "A plain-English shower door buying guide: sliding vs pivot vs corner, framed vs frameless, glass thickness, and how to measure your opening so it actually fits.",
+    "image": "images/hero-shower-door-buying-guide.webp",
+    "category": "Guides",
+    "template": "guide",
+    "description": "A plain-English shower door buying guide: sliding vs pivot vs corner, framed vs frameless, glass thickness, and how to measure your opening so it actually fits.",
+    "date": "2026-07-19"
+  },
+  {
+    "slug": "sliding-vs-pivot-shower-doors",
+    "title": "Sliding vs Pivot Shower Doors (2026): Which Should You Buy?",
+    "publishDate": "2026-07-19",
+    "summary": "Sliding vs pivot shower doors: sliding saves space in tight alcoves and tubs; pivot swings wide for open stalls. Our honest guide to picking the right one.",
+    "image": "images/hero-sliding-vs-pivot-shower-doors.webp",
+    "category": "Comparisons",
+    "template": "comparison",
+    "description": "Sliding vs pivot shower doors: sliding saves space in tight alcoves and tubs; pivot swings wide for open stalls. Our honest guide to picking the right one.",
+    "date": "2026-07-19"
+  },
+  {
+    "slug": "best-sliding-shower-doors",
+    "title": "Best Sliding Shower Doors of 2026: 6 Space-Saving Picks",
+    "publishDate": "2026-07-19",
+    "summary": "We compared 6 sliding shower doors for alcoves and tub conversions. See our soft-close top pick, a $230 budget bypass, and picks for every space.",
+    "image": "images/hero-best-sliding-shower-doors.webp",
+    "category": "Reviews",
+    "template": "roundup",
+    "description": "We compared 6 sliding shower doors for alcoves and tub conversions. See our soft-close top pick, a $230 budget bypass, and picks for every space.",
+    "date": "2026-07-19"
+  },
+  {
+    "slug": "best-frameless-shower-doors",
+    "title": "Best Frameless Shower Doors of 2026: 6 Clean-Look Picks",
+    "publishDate": "2026-07-19",
+    "summary": "The 6 best frameless shower doors of 2026, tested for glass thickness, sealing and install. Our top pick, plus matte-black, sliding, pivot and budget options.",
+    "image": "images/hero-best-frameless-shower-doors.webp",
+    "category": "Reviews",
+    "template": "roundup",
+    "description": "The 6 best frameless shower doors of 2026, tested for glass thickness, sealing and install. Our top pick, plus matte-black, sliding, pivot and budget options.",
+    "date": "2026-07-19"
+  },
+  {
     "slug": "best-shower-doors",
     "title": "Best Shower Doors of 2026: 7 Frameless, Sliding &amp; Pivot Picks",
     "publishDate": "2026-07-19",
