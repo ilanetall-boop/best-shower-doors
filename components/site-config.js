@@ -9,7 +9,7 @@ window.SITE_CONFIG = {
   logo: "images/shower-doors-logo.svg?v=1",
   newsletterUrl: "",
   affiliateTag: "bestshowerdoors-20",
-  gaId: "TBD",
+  gaId: "G-73LVS44C1W",
   colors: {
     primary: "#1B6B7A",
     primaryLight: "#3A97A8",
